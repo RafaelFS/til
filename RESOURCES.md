@@ -21,6 +21,10 @@ Clean Code
 
 JavaScript the Good Parts
 
+[Philip Roberts: What the heck is the event loop anyway - JSConf EU](https://youtu.be/8aGhZQkoFbQ) -
+Great primer on how the JS runtime works. Summarizes in a clean way
+a lot of resources that I had studied before bumping
+into it.
 
 
 ## Testing
