@@ -12,3 +12,16 @@ it from time to time.
 The focus of this list are not what I'm studying right now but
 references that I need to go back from time to time or that I'd
 like to show to new teammates.
+
+## General
+
+Clean Code
+
+## JavaScript
+
+JavaScript the Good Parts
+
+
+
+## Testing
+[Mocks aren't stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
