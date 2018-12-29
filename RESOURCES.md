@@ -28,6 +28,9 @@ into it.
 
 
 ## Testing
+[Practical Test Pyramid - Martin Fowler ](https://martinfowler.com/articles/practical-test-pyramid.html) - 
+Sound advice on how to structure your tests.
+
 [Mocks aren't stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html) -
 Discusses mostly the difference between "classic" and "mockist" TDD. Very interesting
 because it presents a lot of the challenges of testing and how each approach tries
