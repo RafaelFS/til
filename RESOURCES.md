@@ -28,4 +28,7 @@ into it.
 
 
 ## Testing
-[Mocks aren't stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html)
+[Mocks aren't stubs - Martin Fowler](https://martinfowler.com/articles/mocksArentStubs.html) -
+Discusses mostly the difference between "classic" and "mockist" TDD. Very interesting
+because it presents a lot of the challenges of testing and how each approach tries
+to solve them.
